@@ -20,7 +20,7 @@ end
 
 def read_from_hash(hash, key)
 read_from_hash = {hash: , key:}
-read_from_hash [:hash] =
+read_from_hash [:hash] 
 r
 end
 
