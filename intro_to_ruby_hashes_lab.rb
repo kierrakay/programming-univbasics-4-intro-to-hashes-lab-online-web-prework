@@ -11,7 +11,7 @@ pioneer = {:name => "Grace Hopper"}
 end
 
 def id_generator
- id_generator = {"banana" => :id => 1.00}
+ id_generator = {"banana", :id => 1.00}
 end
 
 def my_hash_creator(key, value)
