@@ -20,7 +20,7 @@ end
 
 def read_from_hash(hash, key)
 read_from_hash = {hash => key}
-puts read_from_hash [hash]
+if read_from_hash [hash]
 else nil
 
 end
